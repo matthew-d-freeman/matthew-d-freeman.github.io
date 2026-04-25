@@ -7,6 +7,7 @@ Description: This is a template for how I want my Arduino projects to be structu
 
 ## Overview
 Overview goes here
+![My Project](/images/myproject.png)
 
 ## Parts Used
 Parts Used goes here
