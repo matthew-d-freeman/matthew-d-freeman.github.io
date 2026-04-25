@@ -5,7 +5,7 @@ layout: single
 classes: narrow
 ---
 
-Description: This is a template for how I want my GIS projects to be structured.
+<!--more-->
 
 ## Overview
 Overview goes here
@@ -30,7 +30,7 @@ PLACE THIS CODE INTO THE projectsgis.md FILE
 
 ### Example Description Section
 [Example]({{ "/projectsarduino/example/" | relative_url }})
--Im testing how I want to set up this page for further use
+Description: This is a template for how I want my GIS projects to be structured.
 
 **Tools:** ArcGIS, GPS data, environmental sampling  
 
