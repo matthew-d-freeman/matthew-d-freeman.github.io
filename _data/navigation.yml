@@ -7,5 +7,7 @@ main:
     url: /projectsgis/
   - title: "Arduino Projects"
     url: /projectsarduino/
+  - title: "Publications"
+    url: /publications/
   - title: "Resume"
     url: /resume/
