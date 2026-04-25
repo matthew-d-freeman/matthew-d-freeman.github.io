@@ -9,5 +9,5 @@ permalink: /projectsarduino/
 ### Example Description Section
 Im testing how I want to set up this page for further use
 
-**Tools:** ArcGIS, GPS data, environmental sampling  
+**Tools:** Arduino, SEEED Studio parts
 - [Example](/projectsarduino/example/)
