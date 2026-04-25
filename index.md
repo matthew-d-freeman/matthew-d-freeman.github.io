@@ -2,7 +2,6 @@
 layout: single
 ---
 
-## Matthew D. Freeman
 Welcome to my site! This site will contain the following, an about me, my GIS and Arduino projects, my current academic publications, and an up to date resume. Use the navigation bar at the top of the screen to view everything. 
 
 <h2>Recent Projects</h2>
