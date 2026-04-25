@@ -5,6 +5,8 @@ layout: single
 classes: narrow
 ---
 
+<!--more-->
+
 ## Overview
 For my first coding assignment for my arduino class, my professor wanted us to design a simple game using a button and an led that would allow us to test for human reaction times. To do this I would have to code an LED to turn on, turnoff, and then wait for a button press to confirm when the person saw the LED turn off. While this is happening I would need the system to count the amount of time between when the LED turned off and when the button was pressed.
 
