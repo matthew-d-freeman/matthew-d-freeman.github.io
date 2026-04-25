@@ -17,6 +17,8 @@ collections:
     output: true
     permalink: /projectsarduino/:name/
 
+excerpt_separator: <!--more-->
+
 author:
   name: "Matthew Freeman"
   avatar: "/images/bio-photo.jpg"
