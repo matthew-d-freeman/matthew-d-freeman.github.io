@@ -2,9 +2,8 @@ title: "Matthew Freeman"
 description: "My personal website"
 remote_theme: mmistakes/minimal-mistakes
 
-header:
-  nav: main
-
 plugins:
   - jekyll-include-cache
 
+header:
+  nav: main
