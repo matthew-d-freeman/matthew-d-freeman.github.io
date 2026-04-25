@@ -1,30 +1,24 @@
 ---
-title: "Wetland GIS Analysis"
+title: "Example GIS Analysis"
 layout: single
-permalink: /projects/gis-wetland-analysis/
+date: 2026-04-20
+permalink: /projectsgis/example/
 ---
 
 ## Overview
-This project analyzes wetland vegetation and carbon storage using GIS tools.
+Overview goes here
 
 ## Objectives
-- Map vegetation distribution
-- Estimate carbon sequestration
-- Analyze environmental changes over time
+Objectives go here
 
 ## Methods
-- Data collected from field sampling
-- Processed using ArcGIS
-- Spatial analysis and mapping performed
+Methods go here
 
 ## Results
-- Identified key vegetation zones
-- Estimated carbon storage across plots
+Results go here
 
 ## Tools Used
-- ArcGIS
-- Field GPS data
-- Environmental sampling
+Tools Used go here
 
 ## Visuals
-(Add maps/screenshots here)
+Visuals go here
