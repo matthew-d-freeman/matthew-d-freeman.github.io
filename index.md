@@ -1,6 +1,6 @@
 ---
-layout: home
-author_profile: true
+layout: single
+title: "Home"
 ---
 
 Welcome to my site!
