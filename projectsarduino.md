@@ -4,4 +4,6 @@ title: "Arduino Projects"
 permalink: /projectsarduino/
 ---
 
-Add arduino projects here
+## My Work
+
+- [Example](/projectsarduino/example/)
