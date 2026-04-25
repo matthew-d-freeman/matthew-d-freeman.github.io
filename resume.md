@@ -4,8 +4,6 @@ title: "Resume"
 permalink: /resume/
 ---
 
-## My Resume
-
 You can view or download my resume below:
 
 [Download Resume](../Matthew_Freeman_Resume.pdf)
