@@ -3,7 +3,9 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /projects/
+  - title: "GIS Projects"
+    url: /projectsgis/
+  - title: "Arduino Projects"
+    url: /projectsarduino/
   - title: "Resume"
     url: /resume/
