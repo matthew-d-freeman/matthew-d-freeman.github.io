@@ -30,12 +30,3 @@ The first part of my code is initializing the different integers that I want to 
 I think the code is as memory efficient as it could be but there are some changes to the game I would make to have it work better. Firstly, I would want to make a way so that the delay time of the led being on is more randomized and not a single time each time so that the player cant start to guess when to press it. This could be done by using a looping equation that could change the time for each game and if the number got to high reset it. Also with the beginning of the game I would put in a while command for an initial button press that way I can control when the game starts instead of having it automatically run as soon as the device is powered. 
 
 -Footnote: My teaher showed me the random fucntion after I turned this in so that would've been helpful sooner.
-
-
-### Simon Says Game
-The first project that I workd on measuring reaction times using a game. 
-
-**Tools:** Arduino, SEEED Studio parts
-- [1st Project](/projectsarduino/simon/)
-
----
