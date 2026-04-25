@@ -11,6 +11,9 @@ For my first coding assignment for my arduino class, my professor wanted us to d
 ## Parts Used
 Parts Used go here
 
+## Design Layout
+Put Picture of design layout here
+
 ## Code
 <script src="https://gist.github.com/goldentoad12/5c2e668786754ca06523300da692564c.js"></script>
 
