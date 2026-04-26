@@ -19,7 +19,7 @@ For my first coding assignment for my arduino class, my professor wanted us to d
 - Wires
 
 ## Design Layout
-<img src="/images/simon_game_design.png" style="width:600px; height:auto;">
+<img src="/images/simon_game_design.png" style="width:auto; height:auto;">
 
 ## Code
 <script src="https://gist.github.com/matthew-d-freeman/5c2e668786754ca06523300da692564c.js"></script>
