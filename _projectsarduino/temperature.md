@@ -18,7 +18,7 @@ For this project, I was tasked to design a system that could read the temperatur
 
 ## Design Layout
 
-<img src="/images/temperature_design.png" style="width:600px; height:auto;">
+<img src="/images/temperature_design.png" style="width:auto; height:auto;">
 
 ## Code
 ### Arduino Code
