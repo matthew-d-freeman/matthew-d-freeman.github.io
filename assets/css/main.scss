@@ -15,24 +15,15 @@ $link-color-hover: #145a18;
 // Main theme
 @import "minimal-mistakes";
 
-.masthead {
-  background-color: #1b5e20;
-}
-
-/* THIS is the part causing the white box */
-.greedy-nav {
-  background-color: #1b5e20 !important;
-}
-
-.greedy-nav,
-.masthead__inner-wrap {
-  background-color: #1b5e20 !important;
-}
-
 .greedy-nav a {
-  color: white !important;
+  color: #1b5e20 !important;
 }
 
+.greedy-nav a:hover {
+  color: #145a18 !important;
+}
+
+/* site title (your name/logo) */
 .site-title {
-  color: white !important;
+  color: #1b5e20 !important;
 }
