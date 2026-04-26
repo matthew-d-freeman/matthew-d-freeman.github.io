@@ -2,6 +2,8 @@
 layout: single
 title: "GIS Projects"
 permalink: /projectsgis/
+sidebar:
+  nav: "docs"
 ---
 
 <div class="project-card">
