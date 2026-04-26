@@ -14,3 +14,15 @@ $link-color-hover: #145a18;
 
 // Main theme
 @import "minimal-mistakes";
+
+.masthead {
+  background-color: #1b5e20;
+}
+
+.greedy-nav a {
+  color: white !important;
+}
+
+.site-title {
+  color: white !important;
+}
