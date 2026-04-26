@@ -1,3 +1,22 @@
+<style>
+/* NAV BAR */
+.masthead {
+  background-color: #1b5e20 !important;
+}
+
+.masthead a {
+  color: white !important;
+}
+.green-box {
+  background-color: #e8f5e9;
+  border: 2px solid #1b5e20;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 20px 0;
+}
+</style>
+
+
 ---
 layout: single
 ---
