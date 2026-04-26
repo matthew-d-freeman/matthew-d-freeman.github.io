@@ -3,16 +3,25 @@
 
 @import "minimal-mistakes";
 
-/* NAV BAR OVERRIDES */
-.masthead {
+/* NAV BAR BACKGROUND */
+.masthead,
+.greedy-nav {
   background-color: #1b5e20 !important;
 }
 
-.masthead a,
-.greedy-nav a {
+/* NAV LINKS */
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a,
+.masthead a {
   color: white !important;
 }
 
-.greedy-nav .visible-links a {
-  color: white !important;
+/* REMOVE WHITE HOVER BOXES */
+.greedy-nav a {
+  background: transparent !important;
+}
+
+/* OPTIONAL: subtle hover */
+.greedy-nav a:hover {
+  color: #c8e6c9 !important;
 }
