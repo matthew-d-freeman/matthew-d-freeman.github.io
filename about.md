@@ -5,7 +5,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-This is where you talk about your background, research, and interests.
+*NEED TO UPDATE SOON*
 
 ---
 ## Education
