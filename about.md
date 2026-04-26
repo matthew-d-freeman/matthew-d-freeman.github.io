@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 title: "About Me"
 permalink: /about/
+sidebar:
+  nav: "docs"
 ---
 
 I’m an environmental science researcher with a strong interest in sustainable energy and ecosystem restoration. My work focuses on exploring hydrogen as a viable alternative fuel source, with an emphasis on improving storage methods and reducing production costs.
