@@ -2,14 +2,6 @@
 layout: single
 ---
 
-<style>
-/* =========================
-   NAV BAR
-========================= */
-.masthead {
-  background-color: #1b5e20 !important;
-}
-
 /* =========================
    GLOBAL LINK STYLE
 ========================= */
