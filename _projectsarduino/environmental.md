@@ -31,13 +31,3 @@ Download Arduino Code:
 Summary Goes Here
 
 ---
-
-PLACE THIS INTO THE projectsarduino.md FILE
-
-### [Environmental Tester]({{ "/projectsarduino/environmental/" | relative_url }})
-
-This project looks to record multiple environmental factors related to plant growth
-
-**Tools:** Arduino, SEEED Studio parts, AWC Saplings
-
----
