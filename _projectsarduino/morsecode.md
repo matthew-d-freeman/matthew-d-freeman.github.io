@@ -8,10 +8,12 @@ classes: narrow
 <!--more-->
 
 ## Overview
-For this project, my professor wanted us to take the knowledge that we had gained from learning to blink an LED light and turn that into one of the first forms of digital communication, morse code. To do this, I would need to code the LED to blink for different amounts of time to represent 
+For this project, my professor wanted us to take the knowledge that we had gained from learning to blink an LED light and turn that into one of the first forms of digital communication, morse code. To do this, I would need to code the LED to blink for different amounts of time to represent dots and dashes from there I would just need to have each letter preform its series of dots and dashes to make my name.
 
 ## Parts Used
-Parts Used goes here
+- Arduino Uno
+- 1 LED
+- 1 Resistor (
 
 ## Design Layout
 Put Picture of design layout here
