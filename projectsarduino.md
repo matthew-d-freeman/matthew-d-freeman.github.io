@@ -2,6 +2,8 @@
 layout: single
 title: "Arduino Projects"
 permalink: /projectsarduino/
+sidebar:
+  nav: "docs"
 ---
 
 <div class="project-card">
