@@ -1,20 +1,23 @@
---- 
+---
 layout: single
 classes: wide
+
 header:
   image: /images/header.jpg
   show_overlay_excerpt: true
   excerpt: "My goal is to turn environmental data into actionable insight for climate resilience and sustainable systems."
+
 feature_row:
   - image_path: /images/arduino.jpg
     alt: "Arduino"
     title: "Arduino"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
- - image_path: /images/gis.jpg
+
+  - image_path: /images/gis.jpg
     alt: "ArcGIS"
     title: "ArcGIS"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
---- 
+---
 
 <div class="home-layout">
 
