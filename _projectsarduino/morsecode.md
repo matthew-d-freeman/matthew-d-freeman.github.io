@@ -18,8 +18,7 @@ For this project, my professor wanted us to take the knowledge that we had gaine
 - Wires
 
 ## Design Layout
-Put Picture of design layout here
-<img src="/images/example_design.png" style="width:600px; height:auto;">
+<img src="/images/morse_code_design.png" style="width:600px; height:auto;">
 
 ## Code
 <script src="https://gist.github.com/goldentoad12/15df3237d0ae0f2dcaad675deadbf197.js"></script>
@@ -28,15 +27,6 @@ Download Arduino Code:
 [Download Arduino Code](code/morse_code.ino)
 
 ## Summary
-Summary Goes Here
-
----
-
-PLACE THIS INTO THE projectsarduino.md FILE
-
-### [Example]({{ "/projectsarduino/example/" | relative_url }})
-Write my name in morse code using a blinking LED.
-
-**Tools:** Arduino, SEEED Studio parts
+For this project I didn't want to just make it functional for my name but for any word. To do this I started to build my own functions so that I could make this easier. I started by creating a dot and dash function that would turn on my LED for a specific amount of time to represent a dot and dash. I also made sure to add time delays inbetween so that it woud flow more naturally and make it more recognizable. The timings for each are controlled by integers i have at the top of the code so that it would be easier to change for the design phase. After I had the dot and dashes functions down, I then created a function for each letter that would just be a series of dots and dashes to represent one letter. From here, I just used each letters function followed by a brief delay so the letters wouldn't overlap to display my name in morse code.
 
 ---
