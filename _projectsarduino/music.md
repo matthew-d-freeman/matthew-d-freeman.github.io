@@ -19,7 +19,6 @@ For this assignment, we were tasked to use a sound sensor and a series of LEDs t
 - Wires
 
 ## Design Layout
-Put Picture of design layout here
 <img src="/images/music_design.png" style="width:600px; height:auto;">
 
 ## Code
