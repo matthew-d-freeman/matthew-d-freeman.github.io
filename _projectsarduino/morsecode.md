@@ -13,7 +13,9 @@ For this project, my professor wanted us to take the knowledge that we had gaine
 ## Parts Used
 - Arduino Uno
 - 1 LED
-- 1 Resistor (
+- 1 Resistor (resistance dependent on LED used)
+- Breadboard
+- Wires
 
 ## Design Layout
 Put Picture of design layout here
