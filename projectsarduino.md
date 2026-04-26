@@ -35,3 +35,11 @@ Using an SD card to save temperature readings.
 **Tools:** Arduino, SEEED Studio parts, RStudio
 
 ---
+
+### [Environmental Tester]({{ "/projectsarduino/environmental/" | relative_url }})
+
+This project looks to record multiple environmental factors related to plant growth
+
+**Tools:** Arduino, SEEED Studio parts, AWC Saplings
+
+---
