@@ -27,3 +27,11 @@ Lighting up LEDs based on how loud a song is.
 **Tools:** Arduino, SEEED Studio parts
 
 ---
+
+### [Temperature and SD Card]({{ "/projectsarduino/temperature/" | relative_url }})
+
+Using an SD card to save temperature readings.
+
+**Tools:** Arduino, SEEED Studio parts, RStudio
+
+---
