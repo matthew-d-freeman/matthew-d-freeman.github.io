@@ -4,9 +4,9 @@ main:
   - title: "About"
     url: /about/
   - title: "GIS Projects"
-    url: /projects/gis/
+    url: /projectsgis/
   - title: "Arduino Projects"
-    url: /projects/arduino/
+    url: /projectsarduino/
   - title: "Publications"
     url: /publications/
   - title: "Resume"
