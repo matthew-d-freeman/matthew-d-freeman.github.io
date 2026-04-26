@@ -3,18 +3,15 @@
 
 @import "minimal-mistakes";
 
-a {
-  color: #1b5e20;
+/* NAV BAR OVERRIDES */
+.masthead {
+  background-color: #1b5e20 !important; /* dark green */
 }
 
-a:hover {
-  color: #2e7d32;
+.masthead__menu a {
+  color: white !important;
 }
 
-h1, h2, h3 {
-  color: #1b5e20;
-}
-
-body {
-  background-color: #f9fbf9;
+.masthead__menu a:hover {
+  color: #c8e6c9 !important; /* light green hover (optional) */
 }
