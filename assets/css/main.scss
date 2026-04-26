@@ -27,23 +27,53 @@ $link-color-hover: #145a18;
   color: #1b5e20 !important;
 }
 
-.archive__item {
+/* =========================
+   GIS PROJECT CARDS (custom list)
+   ========================= */
+
+.project-cards {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 16px;
+  margin-bottom: 16px;
   border: 1px solid #1b5e20;
   border-radius: 10px;
-  padding: 15px;
-  margin-bottom: 15px;
+  background: #f6fbf7;
   transition: all 0.2s ease-in-out;
 }
 
-.archive__item:hover {
-  box-shadow: 0 4px 12px rgba(27, 94, 32, 0.2);
+.project-card:hover {
   transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(27, 94, 32, 0.15);
 }
 
-.archive__item-title a {
+/* Title */
+.project-card a {
+  font-size: 1.1rem;
+  font-weight: 600;
   color: #1b5e20 !important;
+  text-decoration: none;
 }
 
-.archive__item-title a:hover {
+.project-card a:hover {
   color: #145a18 !important;
+  text-decoration: underline;
+}
+
+/* Date */
+.project-card small {
+  color: #666;
+}
+
+/* Excerpt */
+.project-card p {
+  margin: 0;
+  color: #444;
 }
