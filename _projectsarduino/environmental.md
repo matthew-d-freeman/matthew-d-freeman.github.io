@@ -11,7 +11,10 @@ classes: narrow
 Overview goes here
 
 ## Parts Used
-Parts Used goes here
+- Arduino Uno
+- Temperature & Humidity Sensor (DHT11)
+- Seeed Studio SD Card Shield V4
+- Wires
 
 ## Design Layout
 <img src="/images/environmental_design.png" style="width:auto; height:auto;">
