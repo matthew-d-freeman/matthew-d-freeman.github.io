@@ -23,14 +23,14 @@ For this project, I was tasked to design a system that could read the temperatur
 ## Code
 ### Arduino Code
 
-<script src="https://gist.github.com/goldentoad12/2308896209afee882e753b1441840c8e.js"></script>
+<script src="https://gist.github.com/matthew-d-freeman/2308896209afee882e753b1441840c8e.js"></script>
 
 Download Arduino Code:
 [Download Arduino Code]({{ "/assets/code/temperature.ino" | relative_url }})
 
 ### RStudio Code
 
-<script src="https://gist.github.com/goldentoad12/02b5ccd1238093c2d91a204b14f95367.js"></script>
+<script src="https://gist.github.com/matthew-d-freeman/02b5ccd1238093c2d91a204b14f95367.js"></script>
 
 Download RStudio Code:
 [Download RStudio Code]({{ "/assets/code/temperature.R" | relative_url }})
