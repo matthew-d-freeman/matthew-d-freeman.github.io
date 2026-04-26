@@ -10,20 +10,6 @@ layout: single
   background-color: #1b5e20 !important;
 }
 
-.masthead a {
-  color: white !important;
-}
-/* NAV LINK COLOR (DESKTOP) */
-.greedy-nav a,
-.masthead__menu-item a {
-  color: #1b5e20 !important;
-}
-
-/* NAV LINK HOVER */
-.greedy-nav a:hover,
-.masthead__menu-item a:hover {
-  color: #2e7d32 !important;
-}
 /* =========================
    GLOBAL LINK STYLE
 ========================= */
