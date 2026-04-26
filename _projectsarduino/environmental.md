@@ -15,7 +15,7 @@ Parts Used goes here
 
 ## Design Layout
 <img src="/images/environmental_design.png" style="width:600px; height:auto;">
-<iframe src="/images/environmental_design.pdf" width="100%" height="100%">
+<iframe src="/images/environmental_design.pdf">
 </iframe>
 
 *[Download Schematic Design]({{ "/assets/images/environmental_design.pdf" | relative_url }})*
