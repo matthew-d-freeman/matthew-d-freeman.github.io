@@ -1,1 +1,37 @@
+/* Main accent color */
+:root {
+  --accent-color: #1b5e20; /* dark green */
+}
 
+/* Links */
+a {
+  color: var(--accent-color);
+}
+
+a:hover {
+  color: #2e7d32; /* slightly lighter green */
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: var(--accent-color);
+}
+
+/* Buttons */
+.btn, button {
+  background-color: var(--accent-color);
+  color: white;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background-color: #2e7d32;
+}
+
+/* Horizontal line styling */
+hr {
+  border: none;
+  height: 2px;
+  background: var(--accent-color);
+  margin: 30px 0;
+}
