@@ -3,15 +3,14 @@
 search: false
 ---
 
+---
+---
+
+$link-color: #1b5e20;
+$link-color-hover: #145a18;
+
+@import "minimal-mistakes";
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-a {
-  color: #1b5e20;
-}
-
-a:hover {
-  color: #145a18;
-}
