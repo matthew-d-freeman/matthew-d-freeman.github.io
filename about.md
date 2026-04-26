@@ -1,4 +1,23 @@
 ---
+---
+
+a {
+  color: #1b5e20;
+}
+
+a:hover {
+  color: #145a18;
+}
+
+.page__content a {
+  color: #1b5e20;
+}
+
+.page__content a:hover {
+  color: #145a18;
+}
+
+---
 layout: single
 author_profile: true
 title: "About Me"
