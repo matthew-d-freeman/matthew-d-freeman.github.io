@@ -21,20 +21,6 @@ feature_row:
     alt: "Publications"
     title: "Publications"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
-docs:
-  - title: Navigation
-    children:
-      - title: "About Me"
-        url: /about/
-      - title: "GIS Projects"
-        url: /projectsgis/
-      - title: "Arduino Projects"
-        url: /projectsarduino/
-      - title: "Publications"
-        url: /publications/
-      - title: "Resume"
-        url: /resume/
 ---
 
 Welcome! This site will contain the following, an about me, my GIS and Arduino projects, my current academic publications, and an up to date resume. Use the navigation bar at the top of the screen to view everything. 
