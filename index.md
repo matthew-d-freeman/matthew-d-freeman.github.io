@@ -1,5 +1,6 @@
 --- 
 layout: single
+classes: wide
 header:
   image: /images/header.jpg
   show_overlay_excerpt: true
