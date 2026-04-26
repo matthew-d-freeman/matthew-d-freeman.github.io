@@ -28,11 +28,18 @@ Visuals go here
 
 PLACE THIS CODE INTO THE projectsgis.md FILE
 
-### [Example]({{ "/projectsarduino/example/" | relative_url }})
+<div class="project-card">
 
-Description: This is a template for how I want my GIS projects to be structured.
+<h3>
+  <a href="{{ '/projectsarduino/environmental/' | relative_url }}">
+    Environmental Tester
+  </a>
+</h3>
 
-**Tools:** ArcGIS, GPS data, environmental sampling  
+<p>This project looks to record multiple environmental factors related to plant growth.</p>
 
+<p><strong>Tools:</strong> Arduino, SEEED Studio parts, Excel</p>
+
+</div>
 ---
 
