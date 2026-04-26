@@ -1,5 +1,4 @@
 --- 
-title: "Home"
 layout: single
 classes: wide
 header:
