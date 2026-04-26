@@ -21,48 +21,61 @@ permalink: /projectsarduino/
 
 <div class="project-card">
 
-### [Morse Code Name]({{ "/projectsarduino/morsecode/" | relative_url }})
+<h3>
+  <a href="{{ '/projectsarduino/morsecode/' | relative_url }}">
+    Morse Code Name
+  </a>
+</h3>
 
-Write my name in morse code using a blinking LED.
+<p>Write my name in morse code using a blinking LED.</p>
 
-**Tools:** Arduino, SEEED Studio parts
+<p><strong>Tools:</strong> Arduino, SEEED Studio parts</p>
 
 </div>
-
 ---
 
 <div class="project-card">
 
-### [Musical LEDs]({{ "/projectsarduino/music/" | relative_url }})
+<h3>
+  <a href="{{ '/projectsarduino/music/' | relative_url }}">
+    Musical LEDs
+  </a>
+</h3>
 
-Lighting up LEDs based on how loud a song is.
+<p>Lighting up LEDs based on how loud a song is.</p>
 
-**Tools:** Arduino, SEEED Studio parts
+<p><strong>Tools:</strong> Arduino, SEEED Studio parts</p>
 
 </div>
-
 ---
 
 <div class="project-card">
 
-### [Temperature and SD Card]({{ "/projectsarduino/temperature/" | relative_url }})
+<h3>
+  <a href="{{ '/projectsarduino/temperature/' | relative_url }}">
+    Temperature and SD Card
+  </a>
+</h3>
 
-Using an SD card to save temperature readings.
+<p>Using an SD card to save temperature readings.</p>
 
-**Tools:** Arduino, SEEED Studio parts, RStudio
+<p><strong>Tools:</strong> Arduino, SEEED Studio parts, RStudio, Excel</p>
 
 </div>
-
 ---
 
 <div class="project-card">
 
-### [Environmental Tester]({{ "/projectsarduino/environmental/" | relative_url }})
+<h3>
+  <a href="{{ '/projectsarduino/environmental/' | relative_url }}">
+    Environmental Tester
+  </a>
+</h3>
 
-This project looks to record multiple environmental factors related to plant growth
+<p>This project looks to record multiple environmental factors related to plant growth.</p>
 
-**Tools:** Arduino, SEEED Studio parts, AWC Saplings
+<p><strong>Tools:</strong> Arduino, SEEED Studio parts, Excel</p>
 
 </div>
-
 ---
+
