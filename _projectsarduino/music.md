@@ -32,7 +32,7 @@ Download Arduino Code:
 ---
 ### If/Else Statements Prohibited
 
-<script src="https://gist.github.com/goldentoad12/3a7defacda10458ea5dfb759f03a4ce1.js"></script>
+<script src="https://gist.github.com/matthew-d-freeman/3a7defacda10458ea5dfb759f03a4ce1.js"></script>
 
 Download Arduino Code:
 [Download Arduino Code]({{ "/assets/code/music_noif.ino" | relative_url }})
