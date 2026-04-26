@@ -14,6 +14,11 @@ Overview goes here
 - Arduino Uno
 - Temperature & Humidity Sensor (DHT11)
 - Seeed Studio SD Card Shield V4
+- 6 LEDs
+- 6 Resistors (resistance dependent on LED used)
+- Photoresistor
+- Button
+- Grove - 16X2 LCD RGB Backlight - Full Color Display
 - Wires
 
 ## Design Layout
