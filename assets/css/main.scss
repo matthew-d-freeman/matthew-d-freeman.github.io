@@ -19,6 +19,11 @@ $link-color-hover: #145a18;
   background-color: #1b5e20;
 }
 
+/* THIS is the part causing the white box */
+.greedy-nav {
+  background-color: #1b5e20 !important;
+}
+
 .greedy-nav a {
   color: white !important;
 }
