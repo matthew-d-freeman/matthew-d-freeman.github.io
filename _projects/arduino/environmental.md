@@ -25,7 +25,7 @@ For this assignment I was allowed to design and construct my own project. I was 
 - Wires
 
 ## Design Layout
-<img src="/images/environmental_design.png" style="width:auto; height:auto;">
+<img src="/assets/images/environmental_design.png" style="width:auto; height:auto;">
 
 *[Download Schematic Design]({{ "/assets/images/environmental_design.pdf" | relative_url }})*
 
