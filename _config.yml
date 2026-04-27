@@ -9,11 +9,11 @@ plugins:
 collections:
   arduino:
     output: true
-    permalink: /projects/arduino/:name/
+    permalink: /projectsarduino/:name/
 
   gis:
     output: true
-    permalink: /projects/gis/:name/
+    permalink: /projectsgis/:name/
 
 excerpt_separator: <!--more-->
 
