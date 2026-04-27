@@ -7,18 +7,18 @@ header:
   excerpt: "My goal is to turn environmental data into actionable insight for climate resilience and sustainable systems."
 
 feature_row:
-  - image_path: /assets/images/arduino.jpg
-    alt: "Arduino Projects"
-    title: "Arduino Projects"
-    url: /projectsarduino/
-    btn_label: "Explore"
-    btn_class: "btn--primary"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
   - image_path: /assets/images/gis.jpg
     alt: "GIS & Spatial Analysis"
     title: "GIS & Spatial Analysis"
     url: /projectsgis/
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+  - image_path: /assets/images/arduino.jpg
+    alt: "Arduino Projects"
+    title: "Arduino Projects"
+    url: /projectsarduino/
     btn_label: "Explore"
     btn_class: "btn--primary"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
