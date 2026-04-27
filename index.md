@@ -15,7 +15,7 @@ feature_row:
     btn_class: "btn--primary"
     excerpt: "Turning spatial data into insights for understanding ecosystems and environmental change."
 
-  - image_path: /assets/images/arduino.jpg
+  - image_path: /assets/images/arduino2.jpg
     alt: "Arduino Projects"
     title: "Arduino Projects"
     url: /projectsarduino/
