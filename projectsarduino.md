@@ -5,8 +5,6 @@ sidebar:
   nav: "docs"
 ---
 
-# Arduino Projects
-
 <div class="project-card">
 
 <h3>
