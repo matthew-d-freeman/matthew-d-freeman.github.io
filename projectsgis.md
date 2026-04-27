@@ -1,4 +1,5 @@
 ---
+title: "GIS Projects"
 layout: single
 permalink: /projectsgis/
 sidebar:
