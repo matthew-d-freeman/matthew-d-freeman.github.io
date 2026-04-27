@@ -44,7 +44,7 @@ PLACE THIS INTO THE projectsarduino.md FILE
 
 <p>Example Description.</p>
 
-<p><strong>Tools:</strong> Example</p>
+<p><strong>Tools:</strong> Arduino, SEEED Studio parts, Excel</p>
 
 </div>
 ---
