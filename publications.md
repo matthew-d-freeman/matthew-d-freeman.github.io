@@ -6,4 +6,4 @@ sidebar:
   nav: "docs"
 ---
 
-Add publications here
+*Coming soon!*
