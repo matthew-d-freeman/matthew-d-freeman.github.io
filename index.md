@@ -7,17 +7,17 @@ header:
   excerpt: "My goal is to turn environmental data into actionable insight for climate resilience and sustainable systems."
 
 feature_row:
-  - image_path: /images/arduino.jpg
+  - image_path: /assets/images/arduino.jpg
     alt: "Arduino"
     title: "Arduino"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
-  - image_path: /images/gis.jpg
+  - image_path: /assets/images/gis.jpg
     alt: "ArcGIS"
     title: "ArcGIS"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
-  - image_path: /images/publication.jpg
+  - image_path: /assets/images/publication.jpg
     alt: "Publications"
     title: "Publications"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
