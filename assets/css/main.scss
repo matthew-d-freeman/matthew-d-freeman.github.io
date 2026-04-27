@@ -113,3 +113,8 @@ p  { line-height: 1.6; }
   transform: translateY(-5px);
   box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
+
+/* Shrink overall header height */
+.page__hero--overlay {
+  padding: 60px 0; /* default is much larger */
+}
