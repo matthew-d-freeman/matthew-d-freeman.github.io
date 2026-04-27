@@ -1,10 +1,11 @@
 ---
 layout: single
-title: "GIS Projects"
 permalink: /projectsgis/
 sidebar:
   nav: "docs"
 ---
+
+# GIS Projects
 
 <div class="project-card">
 
