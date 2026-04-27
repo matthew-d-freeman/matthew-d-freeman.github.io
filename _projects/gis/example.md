@@ -33,7 +33,7 @@ PLACE THIS CODE INTO THE projectsgis.md FILE
 <div class="project-card">
 
 <h3>
-  <a href="{{ '/projectsarduino/example/' | relative_url }}">
+  <a href="{{ '/projects/gis/example/' | relative_url }}">
     Example
   </a>
 </h3>
