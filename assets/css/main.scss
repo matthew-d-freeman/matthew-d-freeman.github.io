@@ -118,3 +118,18 @@ p  { line-height: 1.6; }
 .page__hero--overlay {
   padding: 60px 0; /* default is much larger */
 }
+
+/* Make header excerpt larger and more prominent */
+.page__hero--overlay .page__lead {
+  font-size: 2rem;        /* increase size */
+  font-weight: 600;       /* make it stand out */
+  line-height: 1.3;
+  max-width: 800px;
+}
+
+/* Optional: add subtle background for readability */
+.page__hero--overlay .page__lead {
+  background: rgba(0, 0, 0, 0.4);
+  padding: 10px 15px;
+  border-radius: 8px;
+}
