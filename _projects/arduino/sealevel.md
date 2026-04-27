@@ -27,6 +27,12 @@ Parts Used goes here
 
 *[Download Arduino Code]({{ "/assets/code/sealevel.ino" | relative_url }})*
 
+## Sea Level Instructable
+
+
+
+*[Download Arduino Code]({{ "/assets/pdf/sea_level_instructable.pdf" | relative_url }})*
+
 ## Summary
 Summary Goes Here
 
