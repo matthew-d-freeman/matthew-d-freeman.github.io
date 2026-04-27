@@ -133,3 +133,8 @@ p  { line-height: 1.6; }
   padding: 10px 15px;
   border-radius: 8px;
 }
+
+/* Sidebar base font size increase */
+.sidebar {
+  font-size: 1.05rem; /* try 1.05–1.15 for subtle scaling */
+}
