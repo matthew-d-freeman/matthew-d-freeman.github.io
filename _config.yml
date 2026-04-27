@@ -7,12 +7,9 @@ plugins:
   - jekyll-include-cache
 
 collections:
-  projectsarduino:
+  projects:
     output: true
-    permalink: /projects/arduino/:name/
-  projectgis:
-    output: true
-    permalink: /projects/gis/:name/
+    permalink: /projects/:path/
 
 excerpt_separator: <!--more-->
 
