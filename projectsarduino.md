@@ -9,7 +9,7 @@ sidebar:
 <div class="project-card">
 
 <h3>
-  <a href="{{ '/projects/arduino/simon/' | relative_url }}">
+  <a href="{{ '/projects/arduino/simon/' }}">
     Simon Says Game
   </a>
 </h3>
