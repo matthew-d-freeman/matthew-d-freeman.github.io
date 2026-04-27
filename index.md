@@ -3,7 +3,7 @@ layout: single
 
 excerpt: "My goal is to turn environmental data into actionable insight for climate resilience and sustainable systems."
 header:
-  image: /assets/images/header.jpg
+  overlay_image: /assets/images/header.jpg
   show_overlay_excerpt: true
   overlay_filter: 0.5
 
