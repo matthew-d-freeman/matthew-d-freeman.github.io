@@ -14,19 +14,19 @@ Alongside my energy research, I serve as a lead researcher in a wetland restorat
 I’m passionate about applying science and technology to solve real-world environmental challenges and am always looking for opportunities to learn, collaborate, and make a meaningful impact.
 
 ---
-# Education
+## Education
 
-## Master of Science: Environmental Science
+### Master of Science: Environmental Science
 Christopher Newport Unviversity; Newport News, Virginia
 
 ---
 
-## Bachelor of Science: Cellular, Molecular, and Physical Biology
+### Bachelor of Science: Cellular, Molecular, and Physical Biology
 Christopher Newport University; Newport News, Virginia
 
 ---
 
-## Associate of Science: Social Sciences
+### Associate of Science: Social Sciences
 Thomas Nelson Community College; Newport News, Virginia
 
 ---
