@@ -13,7 +13,7 @@ feature_row:
     url: /projectsgis/
     btn_label: "Explore"
     btn_class: "btn--primary"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Turning spatial data into insights for understanding ecosystems and environmental change."
 
   - image_path: /assets/images/arduino.jpg
     alt: "Arduino Projects"
@@ -21,7 +21,7 @@ feature_row:
     url: /projectsarduino/
     btn_label: "Explore"
     btn_class: "btn--primary"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Building sensor-based systems to monitor environmental conditions and automate data collection."
 
   - image_path: /assets/images/publication.jpg
     alt: "Research & Publications"
@@ -29,7 +29,7 @@ feature_row:
     url: /publications/
     btn_label: "Explore"
     btn_class: "btn--primary"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Communicating scientific research to support environmental decision-making and policy."
     
 sidebar:
   nav: "docs"
