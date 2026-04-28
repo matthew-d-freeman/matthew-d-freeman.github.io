@@ -2,6 +2,10 @@
 title: "Arduino Projects"
 layout: single
 permalink: /projectsarduino/
+author_profile: true
+author:
+  avatar: "/assets/images/arduino2.jpg"
+  name: ""
 sidebar:
   nav: "docs"
 ---
