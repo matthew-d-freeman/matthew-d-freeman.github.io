@@ -5,6 +5,11 @@ layout: single
 classes: narrow
 sidebar:
   nav: "docs"
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "microchip" 
+toc_sticky: true
 ---
 
 <!--more-->
