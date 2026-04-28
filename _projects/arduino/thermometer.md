@@ -32,7 +32,7 @@ This one was something simple I had to make for my house. The freezer was acting
 *[Download Arduino Code]({{ "/assets/code/thermometer.ino" | relative_url }})*
 
 ## Summary
-Summary Goes Here
+This was just a quick little project I threw together and it worked pretty well. I did learn that the Arduino Uno starts to shut down somewhere around 25*C.
 
 ---
 
