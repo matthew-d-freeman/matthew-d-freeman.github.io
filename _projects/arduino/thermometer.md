@@ -36,19 +36,3 @@ Summary Goes Here
 
 ---
 
-PLACE THIS INTO THE projectsarduino.md FILE
-
-<div class="project-card">
-
-<h3>
-  <a href="{{ '/projects/arduino/example/' | relative_url }}">
-    Thermometer
-  </a>
-</h3>
-
-<p>A simple thermometer design.</p>
-
-<p><strong>Tools:</strong> Arduino, </p>
-
-</div>
----
