@@ -25,7 +25,3 @@ docs:
         url: /publications/
       - title: "Resume"
         url: /resume/
-
-arduino:
-  - title: "" 
-    image: /assets/images/arduino2.jpg
