@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
   
 toc: true
-toc_label: "Unique Title"
+toc_label: "Table of Contents"
 toc_icon: "microchip" 
 ---
 
