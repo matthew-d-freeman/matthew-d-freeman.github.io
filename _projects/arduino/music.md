@@ -33,6 +33,7 @@ For this assignment, we were tasked to use a sound sensor and a series of LEDs t
 <script src="https://gist.github.com/matthew-d-freeman/ed2f64ee186fbea2048ecc384199ef13.js"></script>
 
 *[Download Arduino Code]({{ "/assets/code/music_if.ino" | relative_url }})*
+<i class="fas fa-file-pdf"></i>
 
 ---
 ### If/Else Statements Prohibited
@@ -40,6 +41,7 @@ For this assignment, we were tasked to use a sound sensor and a series of LEDs t
 <script src="https://gist.github.com/matthew-d-freeman/3a7defacda10458ea5dfb759f03a4ce1.js"></script>
 
 *[Download Arduino Code]({{ "/assets/code/music_noif.ino" | relative_url }})*
+<i class="fas fa-file-pdf"></i>
 
 ## Summary
 So for my code I started practicing using arrays. I set up my pin numbers as an array and the “loudness”
