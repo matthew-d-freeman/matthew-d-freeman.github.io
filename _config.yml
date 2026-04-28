@@ -26,3 +26,8 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:matthewfreeman12345@yahoo.com"
+
+lunr:
+  search_within_pages: true
+
+search: true
