@@ -16,6 +16,7 @@ This one was something simple I had to make for my house. The freezer was acting
 - Arduino Uno
 - Temperature & Humidity Sensor (DHT11)
 - Grove - 16X2 LCD RGB Backlight - Full Color Display
+- Breadboard
 - Wires
 
 ## Design Layout
