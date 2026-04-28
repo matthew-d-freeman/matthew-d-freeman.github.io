@@ -10,7 +10,7 @@ sidebar:
 
 <h3>
   <a href="{{ '/projects/arduino/simon/' | relative_url }}">
-    Simon Says Game<i class="fas fa-file-pdf"></i>
+    Simon Says Game
   </a>
 </h3>
 
