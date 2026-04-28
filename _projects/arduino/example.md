@@ -5,6 +5,7 @@ layout: single
 classes: narrow
 sidebar:
   nav: "docs"
+  image: /assets/images/arduino.jpg
 
 toc: true
 toc_label: "Table of Contents"
