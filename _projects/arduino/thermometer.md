@@ -14,16 +14,19 @@ This one was something simple I had to make for my house. The freezer was acting
 
 ## Parts Used
 - Arduino Uno
+- Temperature & Humidity Sensor (DHT11)
+- Grove - 16X2 LCD RGB Backlight - Full Color Display
+- Wires
 
 ## Design Layout
-Put Picture of design layout here
-<img src="/assets/images/example_design.png" style="width:auto; height:auto;">
+
+<img src="/assets/images/thermometer_design.png" style="width:auto; height:auto;">
 
 ## Code
-go to https://gist.github.com/ and type in code to get a link like this:
-<script src="https://gist.github.com/matthew-d-freeman/5c2e668786754ca06523300da692564c.js"></script>
 
-*[Download Arduino Code]({{ "/assets/code/example.ino" | relative_url }})*
+<script src="https://gist.github.com/matthew-d-freeman/44c9634a72150dea334ec379535902e7.js"></script>
+
+*[Download Arduino Code]({{ "/assets/code/thermometer.ino" | relative_url }})*
 
 ## Summary
 Summary Goes Here
