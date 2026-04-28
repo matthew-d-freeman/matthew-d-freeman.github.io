@@ -4,7 +4,15 @@ date: 2024-10-14
 layout: single
 classes: narrow
 sidebar:
-  nav: "docs"
+  - title: "Navigation"
+    image: /assets/images/arduino2.jpg
+    image_alt: "Arduino"
+    text: |
+      - [About Me](/about/)
+      - [GIS Projects](/projectsgis/)
+      - [Arduino Projects](/projectsarduino/)
+      - [Publications](/publications/)
+      - [Resume](/resume/)
   
 toc: true
 toc_label: "Table of Contents"
