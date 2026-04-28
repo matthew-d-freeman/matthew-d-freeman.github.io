@@ -32,12 +32,14 @@ For this project, I was tasked to design a system that could read the temperatur
 <script src="https://gist.github.com/matthew-d-freeman/2308896209afee882e753b1441840c8e.js"></script>
 
 *[Download Arduino Code]({{ "/assets/code/temperature.ino" | relative_url }})*
+<i class="fas fa-file-pdf"></i>
 
 ### RStudio Code
 
 <script src="https://gist.github.com/matthew-d-freeman/02b5ccd1238093c2d91a204b14f95367.js"></script>
 
 *[Download RStudio Code]({{ "/assets/code/temperature.R" | relative_url }})*
+<i class="fas fa-file-pdf"></i>
 
 ## Summary
 
