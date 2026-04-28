@@ -31,12 +31,14 @@ Climate change has altered the environment we live in from global temperatures t
 <img src="/assets/images/sealevel_design.png" style="width:auto; height:auto;">
 
 *[Download Schematic]({{ "/assets/pdf/sealevel_design.pdf" | relative_url }})*
+<i class="fas fa-file-pdf"></i>
 
 ## Code
 
 <script src="https://gist.github.com/matthew-d-freeman/3f6a39d138504feaf8b325ea1a02bf31.js"></script>
 
 *[Download Arduino Code]({{ "/assets/code/sealevel.ino" | relative_url }})*
+<i class="fas fa-file-pdf"></i>
 
 ## Summary
 
